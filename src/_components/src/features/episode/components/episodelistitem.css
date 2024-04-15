@@ -1,0 +1,3 @@
+.episodeListItemImgWrapper img {
+    border-radius: 8px; /* Radius.SMALL の想定値、適宜調整してください */
+  }

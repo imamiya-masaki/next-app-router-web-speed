@@ -1,0 +1,3 @@
+.comic-viewer-core-wrapper::-webkit-scrollbar {
+    display: none;
+  }
